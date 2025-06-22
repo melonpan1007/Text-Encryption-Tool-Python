@@ -17,3 +17,4 @@ This is a basic example of a substitution cipher implemented in Python.
 This cipher is not secure for real-world use. It's purely for educational or entertainment purposes.
 
 """
+![Screenshot 2025-06-22 155137](https://github.com/user-attachments/assets/91784dda-4d15-488d-b576-bc7a7666f8f1)
