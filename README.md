@@ -1,9 +1,9 @@
-# Text-Encryption-Tool-Python
+# 🔐 Text-Encryption-Tool-Python
 
 """
 This is a basic example of a substitution cipher implemented in Python.
 
-🔐 How it Works:
+⚙ How it Works:
 - A character map `chars` is created using all printable characters (space, punctuation, digits, and letters).
 - A shuffled version of this list, `key`, is used as a 1-to-1 mapping for substitution.
 - During encryption:
