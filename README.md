@@ -1,6 +1,5 @@
 # 🔐 Text-Encryption-Tool-Python
 
-"""
 This is a basic example of a substitution cipher implemented in Python.
 
 ⚙ How it Works:
